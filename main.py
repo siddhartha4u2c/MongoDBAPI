@@ -82,4 +82,4 @@ async def get_all_data():
         return []
 
 print("4️⃣ FastAPI app setup complete")
-
+# Deployed at https://mongodbapi-1-c8bb.onrender.com/
